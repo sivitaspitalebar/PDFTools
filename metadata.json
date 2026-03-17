@@ -1,0 +1,5 @@
+{
+  "name": "PDF Tools",
+  "description": "A web-based PDF tool for merging and signing PDFs.",
+  "requestFramePermissions": []
+}
